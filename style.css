@@ -1,9 +1,9 @@
-body{
+body {
     background-color: bisque;
     font-family: "Bai Jamjuree", sans-serif;
 }
 
-footer{
+footer {
     background-color: black;
     color: white;
     bottom: 0;
@@ -12,3 +12,8 @@ footer{
     height: 2rem;
 }
 
+footer p {
+    text-align: center;
+    font-size: 0, 6rem;
+    margin: 0, 5rem;
+}
