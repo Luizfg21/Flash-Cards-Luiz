@@ -22,8 +22,8 @@ function viraCartao(){
 }
 
 
-    cartao.addEventListener('click')
-    
+    cartao.addEventListener('click, viraCartao')
+
     container.appendChild(cartao)
 
 }
